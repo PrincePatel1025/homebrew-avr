@@ -2,7 +2,7 @@ class Avrdude < Formula
   desc "Atmel AVR MCU programmer - Custom PrincePatel1025 version"
   homepage "https://github.com/PrincePatel1025/avrdude"
   url "https://github.com/PrincePatel1025/avrdude/archive/refs/heads/main.zip"
-  sha256 "00aac68adc4496a7219ca4bbefc16c02748f507f0f760259d663e0a08f514a8f"
+  sha256 "ddf5dc93f68cbbd95d9ac7a6c99188084c725ad61b6668059e5dba7ca655fbf5"
 
   license "GPL-2.0-or-later"
 
