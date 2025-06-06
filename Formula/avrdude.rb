@@ -3,6 +3,7 @@ class Avrdude < Formula
   homepage "https://github.com/PrincePatel1025/avrdude"
   url "https://github.com/PrincePatel1025/avrdude/archive/refs/heads/main.zip"
   sha256 "ddf5dc93f68cbbd95d9ac7a6c99188084c725ad61b6668059e5dba7ca655fbf5"
+  version "main"
 
   license "GPL-2.0-or-later"
 
